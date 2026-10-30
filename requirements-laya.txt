@@ -1,0 +1,5 @@
+# OPTIONAL - only if you want to run Convai's Laya model on your own machine.
+# Needs Python 3.10 or newer, PyTorch, and a ~1 GB download on first use.
+# Install in a separate environment:   pip install -r requirements-laya.txt
+# Then run:                            RUN_LAYA=1 python text_eval.py
+laya
